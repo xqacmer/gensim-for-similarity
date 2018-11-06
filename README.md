@@ -8,4 +8,4 @@ gensim处理自然语音感情
 
 #### 使用说明
 
-1.本项使用google的语料，3G太大了，需要自己下载google语料，文件名为：GoogleNews-vectors-negative300.bin，如需要可联系git主
+1.本项目使用google的语料，3G太大了，需要自己下载google语料，文件名为：GoogleNews-vectors-negative300.bin，如需要可联系git主
